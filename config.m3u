@@ -205,6 +205,10 @@ https://i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8
 https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20230627T214901SQUARE.png_20230627214902.png" tvg-chno="183" group-title="Music" , NEW KPOP
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" tvg-chno="184", Arirang World
+http://92.114.85.80:8000/play/a01e
+
+
 
 
 #EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News" status="online",BBC News
@@ -221,24 +225,36 @@ http://92.114.85.79:8000/play/a0d9
 http://92.114.85.79:8000/play/a091
 #EXTINF:-1 tvg-chno="237" tvg-id="TalkTV.uk" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png/revision/latest?cb=20220504114009",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD8000016N" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" tvg-chno="238" group-title="News" , CNN
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" tvg-chno="239" group-title="News" , FRANCE 24 FAST
+#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-logo="https://i.imgur.com/05S3yYZ.png" tvg-chno="238" group-title="News" , CNN
+http://92.114.85.80:8000/play/a03i
+#EXTINF:-1 channel-id="samsung-GBBD1900008O3" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900008O3_20230614T010144SQUARE.png_20230614010144.png" tvg-chno="239" group-title="News" , CNN FAST
+https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/france-24-english-int.png" tvg-chno="240" group-title="News" , FRANCE 24
+http://92.114.85.80:8000/play/a03l
+#EXTINF:-1 channel-id="samsung-GBBD1100002L5" tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" tvg-chno="241" group-title="News" , FRANCE 24 FAST
 https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
-#EXTINF:-1 channel-id="samsung-GBBB1500004LG" tvg-id="GBBB1500004LG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" tvg-chno="240" group-title="News" , NBC News NOW
+#EXTINF:-1 channel-id="samsung-GBBB1500004LG" tvg-id="GBBB1500004LG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20230913T031533SQUARE.png_20230913031533.png" tvg-chno="242" group-title="News" , NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1 channel-id="samsung-GBBA33000219V" tvg-id="GBBA33000219V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000219V_20220323T071045SQUARE.png_20220323071048.png" tvg-chno="241" group-title="News" , Reuters
+#EXTINF:-1 channel-id="samsung-GBBA33000219V" tvg-id="GBBA33000219V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000219V_20220323T071045SQUARE.png_20220323071048.png" tvg-chno="243" group-title="News" , Reuters
 https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ2400003DD" tvg-id="GBAJ2400003DD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" tvg-chno="242" group-title="News" , The Guardian
+#EXTINF:-1 channel-id="samsung-GBAJ2400003DD" tvg-id="GBAJ2400003DD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" tvg-chno="244" group-title="News" , The Guardian
 https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTINF:-1 channel-id="samsung-USBA370000104" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20220621T075722SQUARE.png_20220621075724.png" tvg-chno="243" group-title="News" , CBS News
+#EXTINF:-1 channel-id="samsung-USBA370000104" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20220621T075722SQUARE.png_20220621075724.png" tvg-chno="245" group-title="News" , CBS News
 https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
-#EXTINF:-1 channel-id="samsung-USBC39000171G" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20230307T222314SQUARE.png_20230307222314.png" tvg-chno="244" group-title="News" , ABC News Live
+#EXTINF:-1 channel-id="samsung-USBC39000171G" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20230307T222314SQUARE.png_20230307222314.png" tvg-chno="246" group-title="News" , ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20220608T005555SQUARE.png_20220608005557.png" tvg-chno="245" group-title="News" , LiveNOW from FOX
+#EXTINF:-1 channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20220608T005555SQUARE.png_20220608005557.png" tvg-chno="247" group-title="News" , LiveNOW from FOX
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 channel-id="samsung-USBC4400003OU" tvg-id="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230726T004448SQUARE.png_20230726004449.png" tvg-chno="246" group-title="News" , CBC News International
+#EXTINF:-1 channel-id="samsung-USBC4400003OU" tvg-id="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230726T004448SQUARE.png_20230726004449.png" tvg-chno="248" group-title="News" , CBC News International
 https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="BloombergTVEurope.uk" group-title="News" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg
+http://92.114.85.80:8000/play/a03o
+#EXTINF:-1 channel-id="samsung-GBBC900012J9" tvg-id="GBBC900012J9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900012J9_20230125T022351SQUARE.png_20230125022351.png" tvg-chno="250" group-title="News" , Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-id="CNBCEurope.uk" group-title="News" tvg-logo="https://i.imgur.com/B6sfpDa.png",CNBC
+http://92.114.85.80:8000/play/a04s
+
+
 #EXTINF:-1 tvg-chno="262" tvg-id="AriseNews.uk" group-title="News" tvg-logo="https://i.imgur.com/B5IXKIb.png",Arise News
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1 tvg-chno="268" tvg-id="AlJazeeraArabic.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Arabic
