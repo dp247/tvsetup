@@ -4,7 +4,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yo
 #EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-id="ITV1.uk",ITV1
-http://92.114.85.77:8000/play/a04y/
+http://92.114.85.77:8000/play/a04y
 #EXTINF:-1 tvg-chno="4" tvg-id="Channel4.uk" tvg-logo="https://i.imgur.com/B96zmyv.png",Channel 4
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 tvg-chno="5" tvg-id="Channel5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png",Channel 5
