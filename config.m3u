@@ -532,25 +532,3 @@ http://154.54.220.244:47256/play/a00y/index.m3u8
 http://154.54.220.244:47256/play/a00t/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="821" tvg-id="RTLGermany.de" tvg-language="German" tvg-logo="https://i.imgur.com/94K94k2.png",RTL
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492267
-#EXTINF:-1 tvg-chno="822" tvg-id="RTLZwei.de" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",RTL Zwei
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492271
-#EXTINF:-1 tvg-chno="823" tvg-id="ZDF.de" tvg-language="German" tvg-logo="https://i.imgur.com/rtLb6m9.png",ZDF
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492255
-#EXTINF:-1 tvg-chno="824" tvg-id="ZDFneo.de" tvg-language="German" tvg-logo="https://i.imgur.com/1JIIGgL.png",ZDF Neo
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492256
-#EXTINF:-1 tvg-chno="825" tvg-id="ZDFinfo.de" tvg-language="German" tvg-logo="https://i.imgur.com/vtq1IWp.png",ZDF Info
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492257
-#EXTINF:-1 tvg-chno="826" tvg-id="SAT1.de" tvg-language="German" tvg-logo="https://i.imgur.com/rbaAGqi.png",Sat.1
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492262
-#EXTINF:-1 tvg-chno="827" tvg-id="ProSieben.de" tvg-language="German" tvg-logo="https://i.imgur.com/zZOk3nh.png",ProSieben
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492278
-#EXTINF:-1 tvg-chno="828" tvg-id="3sat.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/3sat-de.png",3sat
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492339
-#EXTINF:-1 tvg-chno="829" tvg-id="ARTEGermany.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/arte-de.png",arte
-http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/492337
-#EXTINF:-1 tvg-chno="830" tvg-id="tagesschau24.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/tagesschau24-de.png",tagesschau 24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
-
