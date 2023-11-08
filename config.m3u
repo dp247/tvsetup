@@ -191,6 +191,17 @@ https://i.mjh.nz/PlutoTV/64c8d7814cc09e00087e8fe3-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d135e29a52c94dfe543c5d3-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5637d31f319573e26b64040b" tvg-id="5637d31f319573e26b64040b" tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" tvg-chno="135", Stand-Up TV
 https://i.mjh.nz/PlutoTV/5637d31f319573e26b64040b-alt.m3u8
+#EXTINF:-1 tvg-id="its-showtime-at-the-apollo-03-12-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/04334ffd4f.png" tvg-chno="136",It's Showtime at the Apollo
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
+
+#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" tvg-chno="150",STIRR | National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/df2f520ff0.png" tvg-chno="151",COMET
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/068ecce324.png" tvg-chno="152",TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/8b4d0a3429.png" tvg-chno="153",CHARGE
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-GBBD1100010UB" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" tvg-chno="171", Super Anime
@@ -199,7 +210,20 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
 https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 #EXTINF:-1 channel-id="pluto-5c3f8f12a93c2d61b9990a4e" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" tvg-chno="173", TokuSHOUTsu
 https://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
-#EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20230912T232451SQUARE.png_20230912232452.png" tvg-chno="181" group-title="Entertainment" , K-Stories by CJ ENM
+
+#EXTINF:-1 channel-id="roku-c4bdfe6fd751590e9d096b5de264bba1" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png" tvg-chno="174",Rakuten Viki
+https://i.mjh.nz/Roku/c4bdfe6fd751590e9d096b5de264bba1.m3u8
+#EXTINF:-1 channel-id="roku-79ed68ed51ad522b8783c6c42a5e2e8c" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png" tvg-chno="175",AsianCrush
+https://i.mjh.nz/Roku/79ed68ed51ad522b8783c6c42a5e2e8c.m3u8
+#EXTINF:-1 channel-id="roku-307b3b9ea321539b9688148fc97a8bfd" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png" tvg-chno="176",Crunchyroll
+https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/d65f1a518c.png" tvg-chno="177",Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/c624d7b545.png" tvg-chno="178",RetroCrush
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20230912T232451SQUARE.png_20230912232452.png" tvg-chno="181", K-Stories by CJ ENM
 https://i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20230912T232500SQUARE.png_20230912232502.png" tvg-chno="182" group-title="Movies" , NEW KMOVIES
 https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
@@ -211,7 +235,7 @@ http://92.114.85.80:8000/play/a01e
 
 
 
-#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News" status="online",BBC News
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcparliament-epg.png",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
@@ -307,7 +331,13 @@ https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
 https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
 #EXTINF:-1 channel-id="samsung-USAK3508709A" tvg-id="USAK3508709A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20230222T041212SQUARE.png_20230222041213.png" tvg-chno="318" group-title="Movies" , CINEVAULT: Westerns
 https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bb47d1c095a456618924489ed6e6b8e0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655143270376_HUD_Redbox-FreeMovies_260x147-centered.png" tvg-chno="319" group-title="Movies",REDBOX FREE MOVIES
+https://i.mjh.nz/Roku/bb47d1c095a456618924489ed6e6b8e0.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c60d4ea89eb75a5b85cd436dbdf08ccf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144078867_6844.4_Roku-Syndicated-Channel_260x147.png" tvg-chno="320" group-title="Movies",Redbox Romance
+https://i.mjh.nz/Roku/c60d4ea89eb75a5b85cd436dbdf08ccf.m3u8
 
+#EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/71c3a398a9.png" tvg-chno="351",Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-GBAJ4900009UA" tvg-id="GBAJ4900009UA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900009UA_20230322T075400SQUARE.png_20230322075401.png" tvg-chno="352", Documentaries - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ3504701A" tvg-id="USAJ3504701A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20221214T015138SQUARE.png_20221214015139.png" tvg-chno="353", Documentary+
@@ -330,6 +360,8 @@ https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20230726T004510SQUARE.png_20230726004511.png" tvg-chno="362", TED
 https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png" tvg-chno="363",PursuitUp
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-GBBB4300001NX" tvg-id="GBBB4300001NX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" tvg-chno="381" group-title="Sports" , Viaplay Xtra
@@ -346,6 +378,14 @@ https://i.mjh.nz/SamsungTVPlus/GBBD2300003IK.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 channel-id="samsung-USBB4800005VO" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20221116T013447SQUARE.png_20221116013447.png" tvg-chno="387" group-title="Sports" , CBS Sports HQ
 https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
+#EXTINF:-1 tvg-id="free-07-26-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/a155aec24c.png" tvg-chno="388" group-title="Sports",The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png" tvg-chno="389" group-title="Sports",Swerve Sports
+https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e0970e3e4ea951689b1a15f64b091cb1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584599992_Updated_260x147_CenterWhite_FTFSports.png" tvg-chno="390" group-title="Sports",For The Fans
+https://i.mjh.nz/Roku/e0970e3e4ea951689b1a15f64b091cb1.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669075573477_StackedHUD_WSNLogoCenter.png" tvg-chno="391" group-title="Sports",Women's Sports Network
+https://i.mjh.nz/Roku/11f70f2cc59750f4ad9a019d72ad17b1.m3u8
 
 
 #EXTINF:-1 channel-id="samsung-GBAJ42000038R" tvg-id="GBAJ42000038R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000038R_20230125T022343SQUARE.png_20230125022344.png" tvg-chno="400", INWONDER
@@ -368,8 +408,17 @@ https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 #EXTINF:-1 channel-id="samsung-USBC6000108Z" tvg-id="USBC6000108Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000108Z_20230627T214914SQUARE.png_20230627214915.png" tvg-chno="409", BBC Food
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5bb5fc612a5e580f8a5832fa3b7089e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687354079386_Torque_260x147_W-Logo-Center_NEW.png" tvg-chno="410",Torque
+https://i.mjh.nz/Roku/5bb5fc612a5e580f8a5832fa3b7089e7.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77672e0655c5540095b1c492c91c37d3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666302214374_greatamericanadventures_HUDlogo_centered_260x147.png" tvg-chno="411",Great American Adventures
+https://i.mjh.nz/Roku/77672e0655c5540095b1c492c91c37d3.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/9608edcb56275f9daa1d90fc03c22ebd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678322156060_HUD_HelloInspo_Grey.png" tvg-chno="412",Hello Inspo
+https://i.mjh.nz/Roku/9608edcb56275f9daa1d90fc03c22ebd.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2f7855ad196b57fc8e1dcb9cb74ea161/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653084604744_Maker_HudChannelID_CenterAlign.png" tvg-chno="413",This Old House Makers Channel
+https://i.mjh.nz/Roku/2f7855ad196b57fc8e1dcb9cb74ea161.m3u8
 
-
+#EXTINF:-1 tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/4fabd4d858.png" tvg-chno="601" group-title="Music",LiveXLive
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 channel-id="samsung-GBBB1500003NF" tvg-id="GBBB1500003NF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500003NF_20221026T004721SQUARE.png_20221026004722.png" tvg-chno="602" group-title="Music" , Qello Concerts by Stingray
 https://i.mjh.nz/SamsungTVPlus/GBBB1500003NF.m3u8
 #EXTINF:-1 channel-id="pluto-5873fc21cad696fb37aa9054" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" tvg-chno="603" group-title="Music" , Live Music Replay
@@ -440,6 +489,12 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1900001IG.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
 #EXTINF:-1 channel-id="samsung-GBBA15000034L" tvg-id="GBBA15000034L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA15000034L_20220323T071408SQUARE.png_20220323071411.png" tvg-chno="636" group-title="Music" , Deluxe Lounge HD
 https://i.mjh.nz/SamsungTVPlus/GBBA15000034L.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5941b88c38ab50ad8b09b0d920abbae5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147364704_WMX_ROCK_LOGO_HUD.png" tvg-chno="637" group-title="Music" ,WMX Rock
+https://i.mjh.nz/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/df14db5ffb64531ea5132b8345be4914/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147140512_WMX_HIPHOP_LOGO_HUD.png" tvg-chno="638" group-title="Music" ,WMX Hip Hop
+https://i.mjh.nz/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e2ba2f7fcfe85153ba70c5af66fa22ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147329401_WMX_POP_LOGO_HUD.png" tvg-chno="639" group-title="Music" ,WMX Pop
+https://i.mjh.nz/Roku/e2ba2f7fcfe85153ba70c5af66fa22ff.m3u8
 
 
 #EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
