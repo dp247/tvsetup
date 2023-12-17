@@ -69,7 +69,7 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.
 http://92.114.85.81:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="QuestRedUK.uk" tvg-name="Quest Red" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb2411.png",Quest Red
 http://92.114.85.81:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="Legend.uk" tvg-name="Legend" tvg-logo="https://i.imgur.com/dN2OsIT.png",Legend
+#EXTINF:-1 tvg-chno="41" tvg-id="Legend.uk" tvg-name="Legend" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend.png",Legend
 http://92.114.85.81:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="GreatAction.uk" tvg-name="Great! Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png",Great! Action
 http://92.114.85.81:8000/play/a00e/index.m3u8
@@ -103,11 +103,11 @@ http://92.114.85.81:8000/play/a00r/index.m3u8
 http://92.114.85.77:8000/play/a0ak
 #EXTINF:-1 tvg-chno="66" tvg-id="TBNUK.uk" tvg-name="TBN UK" tvg-logo="https://i.imgur.com/vFllwLd.png",TBN UK
 http://92.114.85.79:8000/play/a08g
-#EXTINF:-1 tvg-chno="67" tvg-id="TrueCrimeUK.uk" tvg-name="CBS Reality" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True%20Crime%20UK.png",True Crime
+#EXTINF:-1 tvg-chno="67" tvg-id="TrueCrimeUK.uk" tvg-name="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png",True Crime
 http://92.114.85.81:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="RealityXtra.uk" tvg-name="Reality Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/RealityXtra_logo.svg/512px-RealityXtra_logo.svg.png",Reality Xtra
+#EXTINF:-1 tvg-chno="68" tvg-id="TrueCrimeXtra.uk" tvg-name="True Crime Xtra" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png",True Crime Xtra
 http://92.114.85.81:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="HorrorXtra.uk" tvg-name="Horror Xtra" tvg-logo="https://i.imgur.com/2ZdNmMa.png",Horror Xtra
+#EXTINF:-1 tvg-chno="69" tvg-id="LegendXtra.uk" tvg-name="Legend Xtra" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png",Legend Xtra
 http://92.114.85.81:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="Thats60s.uk" tvg-name="That's 60s" tvg-logo="https://pbs.twimg.com/media/F1P9TBXXoAI0eyq.jpg",That's 60s
 http://92.114.85.79:8000/play/a0bq
@@ -135,7 +135,7 @@ http://92.114.85.77:8000/play/a09j
 http://92.114.85.81:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="5StarPlus1.uk" tvg-name="5 Star +1" tvg-logo="https://i.imgur.com/fzqtSNm.png",5 Star +1
 http://92.114.85.81:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="TrueCrimeUKPlus1.uk" tvg-name="True Crime +1" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True%20Crime%20%2B1.png",True Crime +1
+#EXTINF:-1 tvg-chno="92" tvg-id="TrueCrimeUKPlus1.uk" tvg-name="True Crime +1" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png",True Crime +1
 http://92.114.85.81:8000/play/a01u/index.m3u8
 
 
